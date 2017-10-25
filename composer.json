@@ -1,5 +1,5 @@
 {
-    "name": "phpwhois2",
+    "name": "serluck/phpwhois",
     "description": "phpWhois - library for querying whois services and parsing results. Based on phpwhois.org",
     "keywords": ["PHP","Whois2","phpWhois2"],
     "homepage": "http://phpwhois.pw",
@@ -28,7 +28,7 @@
     {
         "type": "package",
         "package": {
-            "name": "phpwhois2",
+            "name": "serluck/phpwhois",
             "version": "1.0",
             "source": {
                 "url": "https://github.com/sergio-lucas/phpWhois.git",

@@ -1,7 +1,7 @@
 {
-    "name": "phpwhois/phpwhois",
+    "name": "phpwhois2",
     "description": "phpWhois - library for querying whois services and parsing results. Based on phpwhois.org",
-    "keywords": ["PHP","Whois","phpWhois"],
+    "keywords": ["PHP","Whois2","phpWhois2"],
     "homepage": "http://phpwhois.pw",
     "type": "library",
     "license": "GPL-2.0",
@@ -28,7 +28,7 @@
     {
         "type": "package",
         "package": {
-            "name": "example-package-name",
+            "name": "phpwhois2",
             "version": "1.0",
             "source": {
                 "url": "https://github.com/sergio-lucas/phpWhois.git",
